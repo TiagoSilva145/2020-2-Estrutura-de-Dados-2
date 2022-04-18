@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1617108866 source:c:\users\tiago\desktop\tudo\utfpr - bsi\3º semestre ead\estrutura de dados 2 - agora\aula5 - avl 2\ex2\prog.c
+	"avl_int.h"
+
+1617107028 c:\users\tiago\desktop\tudo\utfpr - bsi\3º semestre ead\estrutura de dados 2 - agora\aula5 - avl 2\ex2\avl_int.h
+	<stdio.h>
+	<stdlib.h>
+
+1617108471 source:c:\users\tiago\desktop\tudo\utfpr - bsi\3º semestre ead\estrutura de dados 2 - agora\aula5 - avl 2\ex2\avl_int.c
+	"avl_int.h"
+
