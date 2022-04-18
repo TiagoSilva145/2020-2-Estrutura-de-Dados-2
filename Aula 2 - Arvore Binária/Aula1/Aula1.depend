@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1596810819 source:c:\users\tiago\desktop\tudo\utfpr - bsi\3 semestre\estrutra de dados 2 - ead\aula1 - arvore - conceitos, binarias e percurso\aula1\arvore.c
+	"arvore.h"
+
+1596810584 c:\users\tiago\desktop\tudo\utfpr - bsi\3 semestre\estrutra de dados 2 - ead\aula1 - arvore - conceitos, binarias e percurso\aula1\arvore.h
+	<stdio.h>
+	<stdlib.h>
+
+1596894321 source:c:\users\tiago\desktop\tudo\utfpr - bsi\3 semestre\estrutra de dados 2 - ead\aula1 - arvore - conceitos, binarias e percurso\aula1\main.c
+	"arvore.h"
+
+1615205269 source:c:\users\tiago\desktop\tudo\utfpr - bsi\3º semestre ead\estrutura de dados 2 - agora\aula 2 - arvore binária\aula1\arvore.c
+	"arvore.h"
+
+1596810584 c:\users\tiago\desktop\tudo\utfpr - bsi\3º semestre ead\estrutura de dados 2 - agora\aula 2 - arvore binária\aula1\arvore.h
+	<stdio.h>
+	<stdlib.h>
+
+1615205541 source:c:\users\tiago\desktop\tudo\utfpr - bsi\3º semestre ead\estrutura de dados 2 - agora\aula 2 - arvore binária\aula1\main.c
+	"arvore.h"
+

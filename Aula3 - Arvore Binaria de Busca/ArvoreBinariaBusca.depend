@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1615415133 source:c:\users\tiago\desktop\tudo\utfpr - bsi\3º semestre ead\estrutura de dados 2 - agora\aula3 - arvore binaria de busca\arvore.c
+	"arvore.h"
+
+1615415137 c:\users\tiago\desktop\tudo\utfpr - bsi\3º semestre ead\estrutura de dados 2 - agora\aula3 - arvore binaria de busca\arvore.h
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+
+1616014503 source:c:\users\tiago\desktop\tudo\utfpr - bsi\3º semestre ead\estrutura de dados 2 - agora\aula3 - arvore binaria de busca\prog.c
+	"arvore.h"
+
